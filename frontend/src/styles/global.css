@@ -1,0 +1,27 @@
+/* IMPORTAÇÃO DE FONTES */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Montserrat:wght@500;600;700&display=swap');
+
+/* VARIÁVEIS */
+:root {
+	--primary-font: 'Montserrat', serif;
+	--primary-color: #8b7cbe;
+	--secondary-color: #3c384a;
+}
+
+/* CSS RESET */
+body,
+p,
+h1,
+h2,
+h3,
+span,
+li,
+ul {
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+}
+
+#root {
+	height: 100vh;
+}
